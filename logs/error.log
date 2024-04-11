@@ -1,0 +1,1 @@
+[Thu Apr 11 15:08:15.099934 2024] [php:error] [pid 4199] [client 192.168.48.134:40720] script '/var/www/furnishop/bitrix_htaccess_test/test_file.php' not found or unable to stat

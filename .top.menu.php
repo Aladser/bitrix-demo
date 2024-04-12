@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"", 
+		"/", 
+		Array(), 
+		Array("IMG"=>"/bitrix/templates/.default/favicon.ico"), 
+		"" 
+	),
+	Array(
+		"Компания", 
+		"company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Продукция", 
+		"products/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

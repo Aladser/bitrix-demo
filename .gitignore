@@ -1,6 +1,0 @@
-.idea
-bitrix/cache
-bitrix/managed_cache
-logs
-upload/tmp
-site_checker_*
